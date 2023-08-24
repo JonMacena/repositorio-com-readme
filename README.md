@@ -13,7 +13,7 @@ Esse espaço é para descrever como utilizar a funcionalidade
 
 1º - Clone para o Projeto
 ```
-git clone <urk>
+git clone <url>
 ```
 
 2º - Acessando a Pasta
